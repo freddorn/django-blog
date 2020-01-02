@@ -1,7 +1,5 @@
-# Code Institute
+# Django Blog Mini-Project
 
-Welcome Fred Dorn,
+A simple blog app written using Django.
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+[![Build Status](https://travis-ci.org/freddorn/django-blog.svg?branch=master)](https://travis-ci.org/freddorn/django-blog)
