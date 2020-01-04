@@ -30,7 +30,8 @@ SECRET_KEY = 'y&1z#wl#)&vg^_z0&qf+rtzh9+v9zn1&%&xi8w$-njkzia6a7e'
 DEBUG = True
 
 ALLOWED_HOSTS = [os.environ.get("C9_HOSTNAME"),
-                 '127.0.0.1', 'blog-test-app.herokuapp.com']
+                 '127.0.0.1', 'blog-test-app.herokuapp.com',
+                 'django-blog12.herokuapp.com' ]
 
 
 # Application definition
